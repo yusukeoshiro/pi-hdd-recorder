@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'redis'
+gem 'dotenv'
+gem 'listen', '~> 3.0'
+gem 'streamio-ffmpeg'
